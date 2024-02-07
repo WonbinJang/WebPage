@@ -8700,6 +8700,9 @@ html[xmlns] .clearfix {
 	background-size: cover !important;
 }
 
+.bg-size-contained{
+	background-size: contain !important;
+}
 /* Background Position Center */
 .bg-position-center {
 	background-position: center center !important;
